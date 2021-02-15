@@ -10,6 +10,8 @@ ROB8 Emotion group repository for different methods to detect emotions in images
 * FER+
 * AffectNet
 * Emotic database
+* AFF-Wild 1
+* AFF-Wild 2
 
 **Architectures:**
 
